@@ -6,4 +6,8 @@
  --> ls -la
  --> gedit .git/config
  --> add user name and email
+
+2, create file
+  --> touch gitstudy.git
+  --> enter information
  
