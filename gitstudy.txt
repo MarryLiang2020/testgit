@@ -45,4 +45,7 @@
 9, merge branch dev to master
    -->git merge dev 
 
+10, delete branch
+   --> git branch -d dev
+
  
