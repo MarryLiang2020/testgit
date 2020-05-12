@@ -11,5 +11,12 @@
   --> touch gitstudy.git
   --> enter information
 
+3, rollback version to gongzuoqu
+   -->git checkout -- gitstudy.txt
+           gongzuoqu     zancunqu   banbenku
+   before   A+B            A           A
+   after    A              A           A
+
+
 
  
