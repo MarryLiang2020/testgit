@@ -35,4 +35,8 @@
    -->git rm gitstudy.txt
 
 
+7, create branch
+   --> git checkout -b dev
+   --> git branch
+
  
