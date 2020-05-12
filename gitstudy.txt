@@ -1,1 +1,9 @@
-1, init git study version
+1, user information config
+ --> sudo apt-get install git
+ --> mkdir studygit
+ --> cd studygit
+ --> git init
+ --> ls -la
+ --> gedit .git/config
+ --> add user name and email
+ 
