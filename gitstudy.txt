@@ -42,4 +42,7 @@
 8, switch branch
    -->git checkout master
 
+9, merge branch dev to master
+   -->git merge dev
+
  
