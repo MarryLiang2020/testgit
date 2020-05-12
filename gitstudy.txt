@@ -17,6 +17,14 @@
    before   A+B            A           A
    after    A              A           A
 
+4, rollback version to zancunqu
+   -->git reset gitstudy.txt
+   -->git checkout -- gitstudy.txt
+   or -->git reset --hard head
+           gongzuoqu     zancunqu   banbenku
+   before   A+B            A+B           A
+   after    A              A             A 
+
 
 
  
