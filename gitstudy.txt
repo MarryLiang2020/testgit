@@ -31,6 +31,8 @@
    before   A+B            A+B           A+B
    after    A              A             A 
 
+6, Delete file
+   -->git rm gitstudy.txt
 
 
  
