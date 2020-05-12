@@ -25,6 +25,12 @@
    before   A+B            A+B           A
    after    A              A             A 
 
+5, rollback version to banbenqu
+    -->git reset --hard HEAD^
+           gongzuoqu     zancunqu   banbenku
+   before   A+B            A+B           A+B
+   after    A              A             A 
+
 
 
  
