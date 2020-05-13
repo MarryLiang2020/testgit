@@ -23,7 +23,7 @@
    or -->git reset --hard head
            gongzuoqu     zancunqu   banbenku
    before   A+B            A+B           A
-   after    A              A             A 
+   after    A              A         aa    A 
 
 5, rollback version to banbenqu
     -->git reset --hard HEAD^
@@ -47,5 +47,9 @@
 
 10, delete branch
    --> git branch -d dev
+
+
+11. add error message
+
 
  
