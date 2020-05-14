@@ -1,1 +1,3 @@
  test clone function
+
+test clone pass then test push function
